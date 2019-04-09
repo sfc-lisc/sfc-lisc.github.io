@@ -1,0 +1,12 @@
+---
+layout:     post
+title:      サイトリニューアル
+author:     Noriatsu Kudo
+tags: 		post 
+subtitle:  	
+category:  project1
+---
+<!-- Start Writing Below in Markdown -->
+# サイトをリニューアルしました。
+
+Internet Technology AP紹介ページとして新たに公開しました。
