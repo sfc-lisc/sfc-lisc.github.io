@@ -5,17 +5,12 @@ description: "Internet Technology APについて"
 header-img: "img/home-bg-img2.png"
 ---
 # Internet Technology AP 概要
-Internet Technology/Internet Civilisation APは、インターネットを前提に研究活動を行う[AP(アカデミックプロジェクト)](https://www.sfc.keio.ac.jp/gsmg/education/ap/)です。本APでは、実社会との接点を持つ多種多様なプロジェクトを通し、各自の研究活動を進めています。
+Internet Technology/Internet Civilisation APは、インターネットを前提に研究活動を行う[AP(アカデミックプロジェクト)](https://www.sfc.keio.ac.jp/gsmg/education/ap/)です。本APでは、実社会との接点を持つ多種多様なプロジェクト(KG)を通し、各自の研究活動を進めています。各プロジェクトには大学院生だけでなく、学部生も各担当教員の研究会を通して参加しています。（一部のプロジェクトはKGとしてグループ化されていない物もあります。）
  
-
-
  ![APとRG](/img/AP.png) 
 
-
-
 ## 履修について
-本APの履修については、以下プロジェクト一覧よりプロジェクトを担当する教員へ連絡をし履修して下さい。
-学部生で、これらの研究プロジェクトに興味を持った場合[RGを履修](https://portal.sfc.wide.ad.jp/newcomer)して下さい。
+本APの履修については、以下プロジェクト一覧よりプロジェクトを担当する教員へ連絡をし履修して下さい。学部生で、これらの研究プロジェクトに興味を持った場合[RGを履修](https://portal.sfc.wide.ad.jp/newcomer)して下さい。
 
 ## 2019年度シラバス(抜粋)
 インターネットが普及し始めて20年以上が経ち、社会はインターネットを前提しとした仕組みに大きく変化した。インターネットが社会を支えるインフラとして更に発展し、人類に貢献するためには、インフラとしての技術進歩、技術革新が不可欠である。本アカデミックプロジェクトでは、人類を支えるインフラとして必要となる新たなインターネット技術の研究・開発を行う。 
@@ -24,7 +19,7 @@ Internet Technology/Internet Civilisation APは、インターネットを前提
 ## APミーティング
 2019年春学期は毎週水曜日6限(18:00～)に実施しています。
 
-# プロジェクト一覧
+# プロジェクト(KG)一覧
 
 ## alpha
 ## AQUA

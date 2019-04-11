@@ -1,15 +1,19 @@
 ---
 layout:     page
-title:      論文
+title:      News
 author:     Noriatsu Kudo
 tags: 		post 
 subtitle:  	
 category:  project1
 ---
 <!-- Start Writing Below in Markdown -->
-# 博士論文
+＃ お知らせ
+## 教員の皆様
+- [教員プロフィール](https://vu.sfc.keio.ac.jp/faculty_profile/)の内容をアップデートして下さい。Memberページの画像は教員プロフィールの画像を流用させていただきます。
+- Memberページに記載したい略歴もしくは学生へのメッセージを工藤までご連絡ください。
 
-# 修士論文
-## 2018年度
-# 卒業論文
-## 2018年度
+## 各KGの担当者
+Project ページに記載するプロジェクト概要を工藤までご連絡ください。
+
+## ボランティア希望の方へ
+このページの整備を手伝ってくれる方、工藤までご連絡ください。
