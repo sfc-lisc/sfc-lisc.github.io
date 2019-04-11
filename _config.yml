@@ -1,5 +1,5 @@
 # Site settings
-title: Internet Technology and Internet Civilization
+title: Internet Technology and Civilization AP
 description: "APの紹介ページです。"
 url: "https://sfc-itap.github.io"
 
@@ -9,7 +9,7 @@ url: "https://sfc-itap.github.io"
 # Secondary Parameters
 baseurl: ""
 header-img: img/home-bg-img2.jpg
-headercolor: "#000000"
+headercolor: "#FFFFFF"
 logo: 
 
 # Tertiary Parameters
