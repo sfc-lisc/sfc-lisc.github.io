@@ -1,0 +1,40 @@
+---
+layout: page
+title: "Projects"
+description: "Internet Technology APのプロジェクト"
+header-img: "img/home-bg-img2.png"
+---
+
+# プロジェクト一覧
+
+## alpha
+## AQUA
+## Arch
+## bcali
+## d-hacks
+## ICAR
+## ISC
+## kumo
+## NECO
+## ONE
+## rgroot
+## sigma
+## SL
+## Socialble Robots
+## WellComp
+## ME-BYO
+## データビジネス
+## miraikan連携
+## W3C
+## AI3 SOI Asia
+### メンバー：[大川恵子](https://vu.sfc.keio.ac.jp/faculty_profile/cgi/f_profile.cgi?id=bec87ec3160b01de), [タムリン、アフマド フスニ](https://vu.sfc.keio.ac.jp/faculty_profile/cgi/f_profile.cgi?id=25c24e3a3e279cf5), [工藤紀篤](https://vu.sfc.keio.ac.jp/faculty_profile/cgi/f_profile.cgi?id=42dd79a990a030e8)
+アジア全域をカバーする衛星通信基板上で衛星インターネットにおける技術開発およびブロードキャストメディアを利用したインターネット構築を行うAI3プロジェクトと、インターネット基盤上での新しい高等教育のあり方を、実証実験を行いながら研究するSOIプロジェクトからなる。アジア各国の教育機関の連携し[SOI Asia](http://www.soi.asia/)プロジェクトや[EBA大学コンソーシアム](http://www.eba-consortium.asia/)といったプロジェクトを運営する。
+## autoid
+### メンバー：
+説明説明説明説明
+## Telemedicine
+### メンバー: [佐藤雅明](https://vu.sfc.keio.ac.jp/faculty_profile/cgi/f_profile.cgi?id=f6a054ad55c9fb6f), [工藤紀篤](https://vu.sfc.keio.ac.jp/faculty_profile/cgi/f_profile.cgi?id=42dd79a990a030e8), [松谷健史](https://vu.sfc.keio.ac.jp/faculty_profile/cgi/f_profile.cgi?id=ac4734859ff28861)
+本プロジェクトでは、高齢化や医師の偏在といった課題に対応し、地域や環境に依存せず質の高い医療サービスを受けられる環境の実現を目指す。医師が病院・クリニックなどの医療拠点に居ながらにして、在宅の患者を遠隔から診療し訪問に掛かる時間を削減し、より多くの患者を診察することが可能となる遠隔在宅医療を前提とした医療システムの適切なあり方を議論し、実証実験を行うフィールドを構築する。実証実験フィールドにおいて、企業や医療機関と共同で患者の状態を把握するためのセンサやカメラなどの機器からの情報取得や、収集されたヘルスケアデータの流通と制御、医師による実際の診察まで幅広い分野を研究対象とする。
+[コンソーシアムWeb](https://www.kri.sfc.keio.ac.jp/ja/consortium/lis/) 
+
+ 
