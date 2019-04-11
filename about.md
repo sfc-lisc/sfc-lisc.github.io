@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "About"
-description: "Internet Technology APについて"
+description: "Internet Technology / Internet Civilization APについて"
 header-img: "img/home-bg-img2.png"
 ---
 # Internet Technology AP 概要
