@@ -7,7 +7,7 @@ subtitle:
 category:  project1
 ---
 <!-- Start Writing Below in Markdown -->
-＃ お知らせ
+# お知らせ
 ## 教員の皆様
 - [教員プロフィール](https://vu.sfc.keio.ac.jp/faculty_profile/)の内容をアップデートして下さい。Memberページの画像は教員プロフィールの画像を流用させていただきます。
 - Memberページに記載したい略歴もしくは学生へのメッセージを工藤までご連絡ください。
