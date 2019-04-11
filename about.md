@@ -7,6 +7,12 @@ header-img: "img/home-bg-img2.png"
 # Internet Technology AP 概要
 Internet Technology/Internet Civilisation APは、インターネットを前提に研究活動を行う[AP(アカデミックプロジェクト)](https://www.sfc.keio.ac.jp/gsmg/education/ap/)です。本APでは、実社会との接点を持つ多種多様なプロジェクトを通し、各自の研究活動を進めています。
  
+
+
+ ![APとRG](/img/AP.png) 
+
+
+
 ## 履修について
 本APの履修については、以下プロジェクト一覧よりプロジェクトを担当する教員へ連絡をし履修して下さい。
 学部生で、これらの研究プロジェクトに興味を持った場合[RGを履修](https://portal.sfc.wide.ad.jp/newcomer)して下さい。
