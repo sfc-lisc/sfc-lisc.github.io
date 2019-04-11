@@ -4,7 +4,7 @@ title:      News
 author:     Noriatsu Kudo
 tags: 		post 
 subtitle:  	
-category:  project1
+category:  NEWS
 ---
 <!-- Start Writing Below in Markdown -->
 # お知らせ
