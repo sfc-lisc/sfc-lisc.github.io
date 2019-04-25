@@ -1,0 +1,10 @@
+---
+layout:     page
+title:      第1回コンソーシアム総会
+author:     Noriatsu Kudo
+tags: 		post 
+subtitle:  	
+category:  2019
+---
+<!-- Start Writing Below in Markdown -->
+5月22日にコンソーシアム総会を開催予定です。
