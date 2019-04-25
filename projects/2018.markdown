@@ -3,6 +3,6 @@ layout: project
 title: "2018年度"
 description: ""
 header-img: "img/home-bg-img2.jpg"
-category: 2019
+category: 2018
 ---
-2019年度の活動
+2018年度の活動
