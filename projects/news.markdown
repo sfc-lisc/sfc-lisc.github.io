@@ -1,6 +1,6 @@
 ---
 layout: project
-title: "News"
+title: "ニュース"
 description: "What's New"
 header-img: "img/home-bg-img2.jpg"
 category: NEWS
