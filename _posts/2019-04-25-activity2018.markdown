@@ -1,0 +1,10 @@
+---
+layout:     page
+title:      2018年度の活動
+author:     Noriatsu Kudo
+tags: 		post 
+subtitle:  	
+category:  2018
+---
+<!-- Start Writing Below in Markdown -->
+# 総務省○○
