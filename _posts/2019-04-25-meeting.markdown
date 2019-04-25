@@ -1,13 +1,13 @@
 ---
 layout:     page
-title:      第1回コンソーシアム総会
+title:      2019年度
 author:     Noriatsu Kudo
 tags: 		post 
 subtitle:  	
 category:  2019
 ---
 <!-- Start Writing Below in Markdown -->
-5月22日に、第1回ヘルスケアデータ社会システムコンソーシアム総会を開催いたします。
+2019年5月22日に、第1回ヘルスケアデータ社会システムコンソーシアム総会を慶応大学三田キャンパスにて開催いたします。
 
 # 日時
 2019年5月22日 16:30～17:30
