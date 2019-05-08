@@ -1,10 +1,10 @@
 ---
 layout:     page
-title:      高精細映像技術を活用した遠隔在宅医療に関する実証
+title:      2017年度の活動
 author:     Noriatsu Kudo
 tags: 		post 
 subtitle:  	
-category:  2017
+category:  past
 ---
 <!-- Start Writing Below in Markdown -->
 # 高精細映像技術を活用した遠隔在宅医療に関する実証

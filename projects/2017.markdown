@@ -3,6 +3,6 @@ layout: project
 title: "これまでの活動"
 description: ""
 header-img: "img/home-bg-img2.jpg"
-category: news
+category: past
 ---
 これまでの活動
