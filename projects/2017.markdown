@@ -5,4 +5,4 @@ description: ""
 header-img: "img/home-bg-img2.jpg"
 category: past
 ---
-これまでの活動
+これまでの活動一覧
