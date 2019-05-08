@@ -18,11 +18,11 @@ category:  past
 ![Hospital in the home](https://sfc-lisc.github.io/img/posts/001.png)
 
 ## 2017年度の実証実験
-![実証実験1](https://sfc-lisc.github.io/img/posts/slide01.png)
+![実証実験1](https://sfc-lisc.github.io/img/posts/slide01.PNG)
 
-![実証実験2](https://sfc-lisc.github.io/img/posts/slide03.png)
+![実証実験2](https://sfc-lisc.github.io/img/posts/slide03.PNG)
 
-![実証実験3](https://sfc-lisc.github.io/img/posts/slide04.png)
+![実証実験3](https://sfc-lisc.github.io/img/posts/slide04.PNG)
 
 ## 分析
 
