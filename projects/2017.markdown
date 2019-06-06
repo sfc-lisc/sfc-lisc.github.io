@@ -1,6 +1,6 @@
 ---
 layout: project
-title: "これまでの活動"
+title: "ACTIVITY"
 description: ""
 header-img: "img/home-bg-img2.jpg"
 category: past
