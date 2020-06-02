@@ -7,4 +7,4 @@ subtitle:
 category:  NEWS
 ---
 <!-- Start Writing Below in Markdown -->
-5月22日にコンソーシアム総会を開催予定です。
+2020年度のコンソーシアム総会は5月に開催予定でしたが新型コロナ感染症の拡大を鑑み延期いたします。
