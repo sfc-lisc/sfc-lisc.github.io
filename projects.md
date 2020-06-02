@@ -5,6 +5,7 @@ description: "活動中のWG一覧"
 header-img: "img/home-bg-img2.png"
 ---
 
+
 # Working Group一覧
 ## TVオンライン診療WG
 テレビを用いたオンライン診療システムの試作機の開発と実証実験の実施。
