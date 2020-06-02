@@ -1,14 +1,45 @@
 # Members
 
-- name: 村井 純（Jun Murai,PhD)
+- name: 村井 純（Jun Murai)
   role: 研究代表者, 慶應義塾大学教授
   img: http://vu.sfc.keio.ac.jp/faculty_profile/photo/jun.png
   bio: 1955年生まれ。東京都出身。79年慶應義塾大学理工学部数理工学科卒業。工学博士。84年、慶大と東京工業大学を接続する日本初のネットワーク間接続「JUNET」を設立。88年にインターネット研究コンソーシアムWIDEプロジェクトを発足させ、インターネット網の整備・普及を進める。2011年、日本人として初めて「IEEE Internet Award」を受賞。ISOC（インターネットソサエティ）の選ぶPostel Awardを受賞し、2013年「インターネットの殿堂」入りを果たす。
   url: https://vu.sfc.keio.ac.jp/faculty_profile/cgi/f_profile.cgi?id=859452959bdc256a
   visible: true
+
+- name: 矢作尚久（Naohisa Yahagi)
+  role: 慶應義塾大学大学院政策・メディア研究科准教授
+  img: 
+  bio: 2000年 慶應義塾大学医学部卒業(MD)、2004年 同大学院博士課程修了(Ph.D.)。2009年 東京大学医療経営人材育成講座修了（首席）。2011年ハーバードビジネススクールMHDにScholarshipとして招聘され修了。その後、途上国への医療マネジメントシステムの提供準備を開始。2012年全国の医療情報を統合可能とする世界初のClinical DataManagement Networkを設計し、2016年稼動。国立成育医療研究センターにて、開発薬事・プロジェクト管理部 臨床研究ネットワーク推進室　室長補佐 情報戦略担当、データ科学室
+室長代理を経て現職。
+  url: https://vu.sfc.keio.ac.jp/faculty_profile/cgi/f_profile.cgi?id=ba3b9ec4712743fb
+  visible: negative
+
+- name: 松本純夫（Sumio Matsumoto)
+  role: 国立病院機構 東京医療センター名誉院長
+  img: 
+  bio: 慶應義塾大学医学部を卒業後、藤田保健衛生大学で教授、同大学第二教育病院・病院長などを務め、現在は独立行政法人国立病院機構東京医療センター名誉院長を務める。東京医療センターの病院長時代には、病院と地域登録医や消防署をつなぐシステム構築に注力した。内閣官房・次世代ICT基盤協議会委員や官民データ活用推進基本計画実行委員会委員として、国をあげた医療連携ネットワークを実現させるための基盤構築を牽引し続けている。 
+  url: 
+  visible: negative
+
+- name: 佐藤　雅明（Masaaki Sato)
+  role: 慶應義塾大学大学院政策・メディア研究科特任准教授
+  img: http://vu.sfc.keio.ac.jp/faculty_profile/photo/masaaki1079.png
+  bio: 2009年慶應義塾大学大学院政策・メディア研究科後期博士課程修了。株式会社三菱総合研究所勤務を経て、慶應義塾大学政策・メディア研究科特任講師を務め、2012年よりシンガポール国立大学に所属。インターネットと自動車の融合領域に関する研究に従事。また、次世代モビリティ技術や、移動体向けの情報提供プラットフォームに関する研究もおこなう。研究活動と共に、ISO/TC204(ITS)の国際専門家(WG16, WG17)も務め、同分野の国際標準化活動に従事。2015年10月より現職。 
+  url: https://vu.sfc.keio.ac.jp/faculty_profile/cgi/f_profile.cgi?id=f6a054ad55c9fb6f
+  visible: negative
+
+- name: 松谷 健史（Takeshi Matsuya)
+  role: 慶應義塾大学大学院政策・メディア研究科特任講師
+  img: 
+  bio: 2016年慶應義塾大学大学院政策・メディア研究科後期博士課程修了
+  url: https://vu.sfc.keio.ac.jp/faculty_profile/cgi/f_profile.cgi?id=ac4734859ff28861
+  visible: negative
+
+
 - name: 工藤 紀篤（Noriatsu Kudo,PhD)
   role: 慶應義塾大学大学院政策・メディア研究科特任助教(非常勤)
   img: 
-  bio: 遠隔授業を通した大学間連係等インターネット上でのコミュニケーション環境の構築に携わる。2017年度より本コンソーシアムに参加。
+  bio: 2014年慶應義塾大学大学院政策・メディア後期博士課程修了。一般社団法人Mozilla Japan(現在WebDINO Japan)。遠隔授業を通した大学間連係の実現等、高等教育をフィールドにインターネット上でのコミュニケーション環境の構築に携わる。2017年度より本コンソーシアムに参加。
   url: https://vu.sfc.keio.ac.jp/faculty_profile/cgi/f_profile.cgi?id=42dd79a990a030e8
   visible: negative
